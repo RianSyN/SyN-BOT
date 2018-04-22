@@ -2576,7 +2576,7 @@ def bot(op):
                             kr1.sendText(msg.to,"already oғғ")
 #==========================[✍T∑∆M❖➣❝SyN_B❂₮❞]===========================
             elif "Dadas" in msg.text:
-                9if msg.from_ in owner:
+                if msg.from_ in owner:
                     if msg.toType == 2:
                         if msg.toType == 2:
                             print "ok"
