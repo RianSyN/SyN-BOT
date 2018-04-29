@@ -2954,7 +2954,7 @@ def bot(op):
                   kr1.sendText(msg.to,"The stafflist is empty")
               else:
                   kr1.sendText(msg.to,"Tunggu...")
-                  mc = "╔═════════════\n║Admin ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰\n╠═════════════\n"
+                  mc = "╔═════════════\n║Admin T∑∆M❖➣❝SyN_B❂₮❞\n╠═════════════\n"
                   for mi_d in admin:
                       mc += "║••>" +kr1.getContact(mi_d).displayName + "\n╠═════════════\n"
                   kr1.sendText(msg.to,mc)
